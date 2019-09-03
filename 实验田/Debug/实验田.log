@@ -1,0 +1,4 @@
+﻿  2.cpp
+c:\users\臧海彬\desktop\程序设计\大作业4\实验田\2.cpp(35): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  实验田.vcxproj -> C:\Users\臧海彬\Desktop\程序设计\大作业4\Debug\实验田.exe
+  实验田.vcxproj -> C:\Users\臧海彬\Desktop\程序设计\大作业4\Debug\实验田.pdb (Full PDB)
